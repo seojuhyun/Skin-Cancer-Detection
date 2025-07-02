@@ -2,7 +2,9 @@
 
 이 프로젝트는 논문 *"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (ICLR, 2021)"* 에서 제안된 Vision Transformer(ViT) 아키텍처를 기반으로, ISIC 2024 피부암 데이터셋에서 양성(Benign) / 악성(Malignant) 피부 병변을 분류하기 위한 모델을 구현한 과제입니다.
 
-  <img width="632" alt="image" src="https://github.com/user-attachments/assets/ec8a1aac-51dd-49cf-9d31-7eaeb1bed23d" />
+<p align= 'center>
+  <img width="632" alt="image" src="https://github.com/user-attachments/assets/ec8a1aac-51dd-49cf-9d31-7eaeb1bed23d">
+  </p>
 
 
 
@@ -38,6 +40,7 @@
 - Number of Classes: `2`
 
 ### 🔹 주요 구성 요소
+
 - **Patch & Position Embedding**
 - **Multi-Head Self-Attention**
   - Num Heads: `8`
