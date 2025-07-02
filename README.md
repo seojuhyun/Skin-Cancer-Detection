@@ -17,10 +17,6 @@
   
 [benign (양성)]
 
-<div align= 'center'>  
-![image](https://github.com/user-attachments/assets/73b92ce5-4d03-4043-aee1-b713189ae4cc) ![image](https://github.com/user-attachments/assets/1c45cb61-4c05-41e9-b23f-6cde032ca908)
-  
-</div>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/73b92ce5-4d03-4043-aee1-b713189ae4cc" width="100">
   <img src="https://github.com/user-attachments/assets/1c45cb61-4c05-41e9-b23f-6cde032ca908" width="100"/>
@@ -30,13 +26,9 @@
 
 [malignant (악성)]
   
-<div align= 'center'>  
-![image](https://github.com/user-attachments/assets/114ff4ec-7f65-44fd-b0ca-b4366b9922de) ![image](https://github.com/user-attachments/assets/45e67cdf-4469-4e42-ba3d-fcdcf41ecbaf)
-</div>
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/114ff4ec-7f65-44fd-b0ca-b4366b9922de" width="400"/>
-  <img src="https://github.com/user-attachments/assets/45e67cdf-4469-4e42-ba3d-fcdcf41ecbaf" width="400"/>
+  <img src="https://github.com/user-attachments/assets/114ff4ec-7f65-44fd-b0ca-b4366b9922de" width="100">
+  <img src="https://github.com/user-attachments/assets/45e67cdf-4469-4e42-ba3d-fcdcf41ecbaf" width="100"/>
 </p>
 
 
