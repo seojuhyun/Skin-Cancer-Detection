@@ -2,7 +2,7 @@
 
 이 프로젝트는 논문 *"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (ICLR, 2021)"* 에서 제안된 Vision Transformer(ViT) 아키텍처를 기반으로, ISIC 2024 피부암 데이터셋에서 양성(Benign) / 악성(Malignant) 피부 병변을 분류하기 위한 모델을 구현한 과제입니다.
 
-<div align= 'center'>
+  <div align= 'center'>
   <img width="632" alt="image" src="https://github.com/user-attachments/assets/ec8a1aac-51dd-49cf-9d31-7eaeb1bed23d" />
   </div>
 
@@ -16,12 +16,16 @@
 - 클래스: `benign (양성)` / `malignant (악성)`
   
 [benign (양성)]
-  
-  ![image](https://github.com/user-attachments/assets/73b92ce5-4d03-4043-aee1-b713189ae4cc) ![image](https://github.com/user-attachments/assets/1c45cb61-4c05-41e9-b23f-6cde032ca908)
+
+<div align= 'center'>  
+![image](https://github.com/user-attachments/assets/73b92ce5-4d03-4043-aee1-b713189ae4cc) ![image](https://github.com/user-attachments/assets/1c45cb61-4c05-41e9-b23f-6cde032ca908)
+</div>
 
 [malignant (악성)]
   
-  ![image](https://github.com/user-attachments/assets/114ff4ec-7f65-44fd-b0ca-b4366b9922de) ![image](https://github.com/user-attachments/assets/45e67cdf-4469-4e42-ba3d-fcdcf41ecbaf)
+<div align= 'center'>  
+![image](https://github.com/user-attachments/assets/114ff4ec-7f65-44fd-b0ca-b4366b9922de) ![image](https://github.com/user-attachments/assets/45e67cdf-4469-4e42-ba3d-fcdcf41ecbaf)
+</div>
 
 - 입력 이미지 크기: `288 × 288`
 - 데이터 불균형 존재 → Train Class Count: {0: 240,389,  1: 246}
@@ -73,8 +77,10 @@
 
 ### 🔹 More Details
 
+<div align= 'center'>  
   <img width="677" alt="스크린샷 2025-07-02 오후 1 44 13" src="https://github.com/user-attachments/assets/af287246-9082-48fa-a669-fee1326c1bee" />
   <img width="676" alt="스크린샷 2025-07-02 오후 1 44 59" src="https://github.com/user-attachments/assets/feb27549-1edc-4a93-94d3-2705751f06ec" />
+</div>
 
 
 
