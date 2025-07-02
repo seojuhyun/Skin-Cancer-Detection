@@ -22,8 +22,8 @@
   
 </div>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/73b92ce5-4d03-4043-aee1-b713189ae4cc" width="400"/>
-  <img src="https://github.com/user-attachments/assets/1c45cb61-4c05-41e9-b23f-6cde032ca908" width="400"/>
+  <img src="https://github.com/user-attachments/assets/73b92ce5-4d03-4043-aee1-b713189ae4cc" width="100">
+  <img src="https://github.com/user-attachments/assets/1c45cb61-4c05-41e9-b23f-6cde032ca908" width="100"/>
 </p>
 
 
